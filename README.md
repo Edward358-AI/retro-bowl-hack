@@ -24,3 +24,5 @@ Check the video below if you need help:
 
 [<video src="https://drive.google.com/file/d/1lcjH9ZsiCnl9h6NCKVLMnxFGD65ICWU2/view?usp=sharing">](https://drive.google.com/file/d/1lcjH9ZsiCnl9h6NCKVLMnxFGD65ICWU2/view?usp=sharing)https://drive.google.com/file/d/1lcjH9ZsiCnl9h6NCKVLMnxFGD65ICWU2/view?usp=sharing
 
+For the alternative method, doing it on Retro Bowl college should be the exact same process, but in the "Local Storage" section the key will say `RetroBowlCollege.0.savedata.ini` instead. For the video, follow the video instructions as usual, but look for `RetroBowlCollege.0.savedata.ini` instead.
+
