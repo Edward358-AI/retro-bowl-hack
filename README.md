@@ -14,7 +14,9 @@ NOTE: May not work for some websites. See alternative method for doing this on p
 
 To do this alternative method, open devtools first.
 
-Next, open the application tab, and then check the left menu sidebar. There will likely be a section called "Local Storage" or something of the like. Open all the subpages you see until you see something like this on the main screen: `RetroBowl.0.savedata.ini` 
+Next, open the "Application" tab, and then check the left menu sidebar. There will likely be a section called "Local Storage" something of the like. Open all the subpages you see until you see something like this on the main screen: `RetroBowl.0.savedata.ini` 
+
+On different operating systems, there might be a tab called "Storage" and then click that, and on the left sidebar there will be "Local Storage" item in the menu, expand that, and click on each subelement that pops up under "Local Storage" until you find a key that says `RetroBowl.0.savedata.ini`.
 
 Next, double-click on the "Value" side of the table currently in blue in the image to edit it, and then find the `coach_credit=""` and edit the number in the quotes (ONLY THE NUMBER INSIDE THE QUOTES) to change the number of credits you have (you can also mess with the other properties inside the file but don't go too far). 
 
