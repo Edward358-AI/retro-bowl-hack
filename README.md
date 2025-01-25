@@ -1,5 +1,5 @@
 ## About
-A hack that allows you to get a large amount of coaching credits (WEB VERSIONS ONLY).
+A hack that allows you to get a large amount of coaching credits (WEB VERSIONS ONLY). Works for Retro Bowl normal and College version. See `college.js` file for Retro Bowl College.
 
 ## Running it
 To run this hack, open developer console (F12) and run the code in main.js if you are on the main version, college.js for if you are on retro bowl college. If not, you can type `javascript:` in the url bar and paste the code there and hiy enter.
